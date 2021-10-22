@@ -1,0 +1,33 @@
+﻿@model Frontend.Models.PlayerView
+
+@{
+    if (ViewBag.Win != null)
+    {
+        <p>Sua pontuação: @ViewBag.Win</p>
+    }
+}
+
+<div class="container-fluid">
+    @if (ViewBag.Games.Count > 0)
+    {
+        foreach (GameView game in (List<GameView>)ViewBag.Games)
+        {
+            <form asp-controller="Home" asp-action="Played" method="post">
+                <input type="hidden" value="@Model.PlayerId" name="PlayerId" />
+                <input type="hidden" value="@game.GameId" name="GameId" />
+                <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">Jogar @game.Name</h5>
+                        <p class="card-text">Clique para gerar sua pontuação.</p>
+                        <button class="btn-dark">PLAY</button>
+                    </div>
+                </div>
+            </form>
+        }
+
+    }
+    else
+    {
+        <p>Não há jogos cadastrados!</p>
+    }
+</div>

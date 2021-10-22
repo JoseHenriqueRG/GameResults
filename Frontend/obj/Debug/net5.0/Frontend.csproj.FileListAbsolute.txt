@@ -1,0 +1,123 @@
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\appsettings.json
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.exe
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.deps.json
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.runtimeconfig.json
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.runtimeconfig.dev.json
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.dll
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\ref\Frontend.dll
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.pdb
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.Views.dll
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.Views.pdb
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.AssemblyInfo.cs
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.RazorAssemblyInfo.cache
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.RazorAssemblyInfo.cs
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\staticwebassets\Frontend.StaticWebAssets.xml
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\scopedcss\bundle\Frontend.styles.css
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.TagHelpers.input.cache
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.TagHelpers.output.cache
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.RazorCoreGenerate.cache
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.Views.pdb
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.csproj.CopyComplete
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.dll
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\ref\Frontend.dll
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.pdb
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.genruntimeconfig.cache
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\appsettings.json
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.exe
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.deps.json
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.runtimeconfig.json
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.runtimeconfig.dev.json
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.dll
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\ref\Frontend.dll
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.pdb
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.Views.dll
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Frontend.Views.pdb
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.csproj.AssemblyReference.cache
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.AssemblyInfo.cs
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.RazorAssemblyInfo.cache
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.RazorAssemblyInfo.cs
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\staticwebassets\Frontend.StaticWebAssets.xml
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\scopedcss\bundle\Frontend.styles.css
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.TagHelpers.input.cache
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.TagHelpers.output.cache
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.RazorCoreGenerate.cache
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\Home\Play.cshtml.g.cs
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.Views.pdb
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.csproj.CopyComplete
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.dll
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\ref\Frontend.dll
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.pdb
+C:\Users\joseh\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Frontend.genruntimeconfig.cache
+C:\Users\jose.gomes\Documents\Workspace\Desafio-tecnico-fullstack\Frontend\obj\Debug\net5.0\Razor\Views\Home\Play.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\bin\Debug\net5.0\appsettings.json
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\bin\Debug\net5.0\Frontend.exe
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\bin\Debug\net5.0\Frontend.deps.json
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\bin\Debug\net5.0\Frontend.runtimeconfig.json
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\bin\Debug\net5.0\Frontend.runtimeconfig.dev.json
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\bin\Debug\net5.0\Frontend.dll
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\bin\Debug\net5.0\ref\Frontend.dll
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\bin\Debug\net5.0\Frontend.pdb
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\bin\Debug\net5.0\Frontend.Views.dll
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\bin\Debug\net5.0\Frontend.Views.pdb
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.csprojAssemblyReference.cache
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.AssemblyInfo.cs
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.RazorAssemblyInfo.cache
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.RazorAssemblyInfo.cs
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\staticwebassets\Frontend.StaticWebAssets.xml
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\scopedcss\bundle\Frontend.styles.css
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.TagHelpers.input.cache
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.TagHelpers.output.cache
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.RazorCoreGenerate.cache
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Razor\Views\Home\Play.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.Views.pdb
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.csproj.CopyComplete
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.dll
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\ref\Frontend.dll
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.pdb
+C:\Users\jose.gomes\Documents\Workspace\Nova pasta\Frontend\obj\Debug\net5.0\Frontend.genruntimeconfig.cache

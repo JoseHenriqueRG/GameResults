@@ -1,0 +1,67 @@
+﻿@model List<Frontend.Models.LeaderboardView>
+
+@{
+    ViewData["Title"] = "Home Page";
+
+    int n = 0;
+}
+
+<div>
+    <form asp-controller="Home" asp-action="Play" method="get">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">Jogador ID</span>
+            <input type="number" id="PlayerId" name="PlayerId" class="form-control" placeholder="" aria-label="Player ID" aria-describedby="button-play">
+            <button class="btn btn-dark" id="button-play">Jogar</button>
+        </div>
+    </form>
+</div>
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.Message
+    </div>
+}
+<table class="table">
+    <thead>
+        <tr class="text-center">
+            <th scope="col">
+                Posição
+            </th>
+            <th scope="col">
+                ID
+            </th>
+            <th scope="col">
+                Nome
+            </th>
+            <th scope="col">
+                Saldo
+            </th>
+            <th scope="col">
+                Última Atualização
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            n++;
+            <tr class="text-center">
+                <td scope="row">
+                    @n
+                </td>
+                <td scope="row">
+                    @Html.DisplayFor(modelItem => item.PlayerId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Balance)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastUpdateDate)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

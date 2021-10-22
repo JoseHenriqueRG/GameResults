@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cbr45JnCcD030HV1iM9NGqogZuCvF2d+EcyeFDZaiCbxzJkmeyh+kCw6eLsJ27u2bexTb+SJHeaks6XZfgXRSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jose.gomes\\Desktop\\teste\\Desafio-fullstack\\Frontend\\Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jose.gomes\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
