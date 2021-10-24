@@ -25,23 +25,14 @@ namespace Backend
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            _logger.LogDebug($"GracePeriodManagerService is starting.");
-
-            stoppingToken.Register(() =>
-                _logger.LogDebug($" GracePeriod background task is stopping."));
-
             while (!stoppingToken.IsCancellationRequested)
             {
-                _logger.LogDebug($"GracePeriod task doing background work.");
-
                 await DeserializeGameResult();
 
                 var _time = Convert.ToInt32(Startup.StaticConfig["CheckUpdateTime"]);
 
                 await Task.Delay(_time, stoppingToken);
             }
-
-            _logger.LogDebug($"GracePeriod background task is stopping.");
         }
 
         private async Task DeserializeGameResult()
@@ -72,10 +63,38 @@ namespace Backend
                     {
                         long balance = lista.Where(g => g.PlayerId == playerId).Sum(g => g.Win);
 
-                        await PersistDatabase(balance, playerId);
+                        bool valid = await PersistDatabase(balance, playerId);
+
+                        // Se foi salvo remove da lista
+                        if (valid)
+                        {
+                            lista = lista.Where(g => g.PlayerId != playerId).ToList();
+                        }
                     }
 
-                    await _cache.RemoveAsync("_Balances");
+                    /* 
+                     * ** Lista.Count <= 0 significa que todo cache foi salvo. **
+                     * ** Se contém dados na lista limpa o cache e salva os dados 
+                     * que não foram gravados no banco de dados no cache novamente. **
+                     */
+                    if (lista.Count > 0)
+                    {
+                        await _cache.RemoveAsync("_Balances");
+
+                        // Serializa a lista para string
+                        var json = JsonConvert.SerializeObject(lista);
+
+                        var options = new DistributedCacheEntryOptions()
+                            .SetSlidingExpiration(TimeSpan.FromSeconds(Convert.ToDouble(Startup.StaticConfig["CacheTimeout:SlidingExpiration"])))
+                            .SetAbsoluteExpiration(TimeSpan.FromMinutes(Convert.ToDouble(Startup.StaticConfig["CacheTimeout:AbsoluteExpiration"])));
+
+                        // Persistir na memória 
+                        await _cache.SetStringAsync("_Balances", json, options);
+                    }
+                    else
+                    {
+                        await _cache.RemoveAsync("_Balances");
+                    }                    
                 }
                 catch (Exception exception)
                 {
@@ -84,7 +103,7 @@ namespace Backend
             }
         }
 
-        private Task PersistDatabase(long balance, long playerId)
+        private Task<bool> PersistDatabase(long balance, long playerId)
         {
             using var conn = new SqlConnection(Startup.StaticConfig["ConnectionStrings:DesafioContext"]);
             try
@@ -103,13 +122,13 @@ namespace Backend
                     using SqlDataReader reader = command.ExecuteReader();
                 }
                 conn.Close();
+                return Task.FromResult(true);
             }
             catch (Exception exception)
             {
                 _logger.LogCritical(exception, "FATAL ERROR: Database connections could not be opened: {Message}", exception.Message);
+                return Task.FromResult(false);
             }
-
-            return Task.CompletedTask;
         }
     }
 }

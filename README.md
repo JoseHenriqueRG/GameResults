@@ -4,6 +4,8 @@
 
 ```
 Antes de começar você vai precisar criar um banco de dados chamado Desafio e rodar o comando ADD-MIGRATION
+Logo após executar esse comando para criar a tabela de TestCache
+dotnet sql-cache create "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Desafio;Integrated Security=True;" dbo TestCache
 ```
 
 ### 🎲  Configurações (servidor)

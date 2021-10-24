@@ -14,6 +14,14 @@ namespace Backend.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<GameResult>().HasKey(gr => new { gr.PlayerId, gr.GameId, gr.Timestamp });
+
+            modelBuilder.Entity<Game>().HasData(
+                new Game
+                {
+                    GameId = 1,
+                    Name = "Point game"
+                }
+            );
         }
         
         public DbSet<GameResult> GameResult { get; set; }
