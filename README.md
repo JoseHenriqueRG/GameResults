@@ -1,4 +1,4 @@
-# Desafio-fullstack
+# GameResults
 
 ### 🎲  Pré-requisitos - Rodando o BackEnd (servidor)
 
